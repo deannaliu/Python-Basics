@@ -10,7 +10,7 @@
 * Reads a line from input and determines if it is a legal number. 
 * The program prints either int or float or None.
 #### Example Input/Output
-```python
+```
 input: 10
 output: int
 
@@ -38,7 +38,7 @@ output: True
 ### Program 4
 * Reads a date in the format MM/DD/YYYY from input and print it out as Day, Month DD, Year. 
 #### Example Input/Output
-```python
+```
 input: 02/08/2019
 output: Friday, February 8, 2019.
 ```
