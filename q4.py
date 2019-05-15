@@ -1,6 +1,3 @@
-# Mei Deanna Liu
-# 111041152
-
 import datetime
 
 reader = input()
