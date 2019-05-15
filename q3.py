@@ -1,6 +1,3 @@
-# Mei  Deanna Liu
-# 111041152
-
 import sys
 line1 = input()
 line2 = input()
