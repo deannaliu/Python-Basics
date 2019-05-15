@@ -1,5 +1,5 @@
-# Python Basics
-## Python 3
+## Python Basics
+* Python 3
 
 ### Program 1
 * Reads a line from input and determines if it is a legal identifier.
